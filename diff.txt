@@ -1,0 +1,10 @@
+
+In line number 21 of your output:
+The output should be:
+courseList_ elements initiated to nullptr has Passed
+But your output is: 
+
+^
+|
+Professors character ASCII code: hex(63), dec(99)
+un-matched character ASCII code: hex(0), dec(0)

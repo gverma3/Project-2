@@ -1,0 +1,57 @@
+OOP244 Summer Milestone Tester
+
+
+Running tests on your Course class.
+-----------------------------------
+isEmpty() Constructor Test has Passed
+isEmpty() Empty Course Code Test has Passed
+isEmpty() Course Title Test has Passed
+isEmpty() Invalid Credits Test has Passed
+isEmpty() Invalid Study Load Test has Passed
+Getter and setter Test Test has Passed
+Standard Initilization Test has Passed
+Empty Initilization Test has Passed
+Equality Test has Passed
+Inequality Test Test has Passed
+Change Study Load Test Positive Number has Passed
+Change Study Load Test Negative Number has Passed
+
+Running tests on your ScmApp class.
+-----------------------------------
+courseList_ elements initiated to nullptr has Passed
+searchForACourse function - first element has Passed
+searchForACourse function- last element has Passed
+searchForACourse function- middle element has Passed
+searchForACourse function- not found has Passed
+Testing saving records 
+Passed
+Record Loading Test 
+Passed
+
+Running tests on your ICTCourse class.
+--------------------------------------
+isEmpty() Constructor Test has Passed
+isEmpty() Empty Course Code Test has Passed
+isEmpty() Course Title Test has Passed
+isEmpty() Invalid Credits Test has Passed
+isEmpty() Invalid Study Load Test has Passed
+isEmpty() Empty Computer System Test has Passed
+Getter and Setter Test has Passed
+Standard Initilization Test has Passed
+Empty Initilization Test has Passed
+Change Study Load Test Positive Number has Passed
+Change Study Load Test Negative Number has Passed
+
+Running tests on your GenEdCourse class.
+--------------------------------------
+isEmpty() Constructor Test has Passed
+isEmpty() Empty Course Code Test has Passed
+isEmpty() Course Title Test has Passed
+isEmpty() Invalid Credits Test has Passed
+isEmpty() Invalid Study Load Test has Passed
+isEmpty() Empty Computer System Test has Passed
+Getter and Setter Test has Passed
+Standard Initilization Test has Passed
+Empty Initilization Test has Passed
+Change Study Load Test Positive Number has Passed
+Change Study Load Test Negative Number has Passed
